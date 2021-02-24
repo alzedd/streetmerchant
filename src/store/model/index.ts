@@ -85,6 +85,7 @@ import {Megekko} from './megekko';
 import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
 import {Mindfactory} from './mindfactory';
+import {MonclickIt} from './monclick-it';
 import {Msy} from './msy';
 import {Mwave} from './mwave';
 import {NetonnetNO} from './netonnet-no';
@@ -229,6 +230,7 @@ export const storeList = new Map([
   [MemoryExpress.name, MemoryExpress],
   [MicroCenter.name, MicroCenter],
   [Mindfactory.name, Mindfactory],
+  [MonclickIt.name, MonclickIt],
   [Msy.name, Msy],
   [Mwave.name, Mwave],
   [NetonnetNO.name, NetonnetNO],
